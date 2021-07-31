@@ -1,0 +1,123 @@
+body{
+    font-family: 'Roboto Mono', monospace; 
+    font-weight: 400px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.Half-Width {
+    width: 35%;
+    margin: 5%;
+    padding: 1%;
+    display: inline-block;
+    
+}
+.Half-Width .Pic1{
+    width: 100%; 
+    position: relative;
+    margin-bottom: -15%;
+    position: relative;
+}
+
+.Half-Width .Pic2{
+    width: 100%; 
+    position: relative;
+    margin: 5%;
+    margin-bottom: -15%;
+    position: relative;
+}
+
+.Name-Highlight{
+    color: tomato
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, tomato, rgb(250, 56, 21));
+    padding: 15px 40px;
+    color: white;
+    font-weight: 500px;
+    border-radius: 5%;
+}
+
+p{
+    margin-bottom: 50px;
+}
+
+#align-center{
+    text-align: center;
+    margin-top:  40px;
+    
+}
+
+.one-third img{
+    width: 100%;
+    position: relative;
+}
+
+.one-third{ 
+    width: 15%;
+    margin : 3%;
+    margin-left: 8%;
+    padding: 3%;
+    float: left;
+    box-shadow: .5px .5px 8px darkgray;
+    border-radius: 5%;
+
+}
+
+.All-Work{
+    background-color: whitesmoke;
+    height: 700px;
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+    margin-top: 50px;
+}
+
+.Single-head{
+    color: white;
+    font-weight: 800px;
+}
+
+.Inquiry{
+    margin: 10%;
+    margin-left: 15%;
+    display: inline-block;
+}
+
+.Background-image{
+    background-image: url(shapes/Group_33094_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+}
+
+.Footer{
+    text-align: center;
+    font-weight: 150%;
+    color: black;
+}
+.Icon1{ 
+    margin-left: 20.5%;
+    width: 4%;
+    text-align: center;
+}
+.Icon2{
+    margin-left: 1%;
+    width: 4%;
+    text-align: center;
+}
+.Icon3{
+    margin-left: 1%;
+    width: 4%;
+    text-align: center;
+}
+.Footer-head{
+    font-weight: bold;
+}
